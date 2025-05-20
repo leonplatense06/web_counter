@@ -19,7 +19,7 @@ body {
     border: solid rebeccapurple;
     border-radius: 6px;
     font-family: monospace;
-    padding: 5px;
+    padding: 8px;
     box-shadow: 1px 1px 1px 1px rgb(223, 217, 217);
 }
 
@@ -61,6 +61,7 @@ body {
     font-family: monospace;
     color: rgb(103, 81, 129);
     position:relative;
-    left: 9px;
+    text-align: center;
+    left: 3px;
     top: -50px;
 }
