@@ -1,6 +1,5 @@
 counter = document.getElementById("counter");
 title = document.getElementById("counter-title");
-times = 0;
 
 function decreaseCounter(){
     updateCounter(parseInt(counter.innerText) - 1);
